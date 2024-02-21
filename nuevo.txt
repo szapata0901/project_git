@@ -1,0 +1,1 @@
+Hola, este es un documento para aprender a manejar git
